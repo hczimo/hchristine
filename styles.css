@@ -64,6 +64,12 @@ body {
     height: auto;
 }
 
+.centered-container .drawing-container img {
+    width: 100%;
+    max-width: 150px; /* Limit maximum width to 150px */
+    height: auto;
+}
+
 .centered-container .text-container {
     width: 70%;
     text-align: left;
