@@ -54,6 +54,10 @@ body {
     width: 30%;
 }
 
+.centered-container .drawing-container {
+    width: 90%;
+}
+
 .centered-container .photo-container img {
     width: 100%;
     max-width: 150px; /* Limit maximum width to 150px */
